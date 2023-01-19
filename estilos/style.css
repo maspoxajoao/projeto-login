@@ -64,3 +64,8 @@ div#formulario{
 div#formulario > p {
     font-size: 0.8em;
 }
+
+form > input[type=submint] {
+    display: block;
+    font-size: 3em;
+}

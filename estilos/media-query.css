@@ -43,6 +43,7 @@
     section#login > div#formulario{
         float: left;
         width: 50%;
+        display: block;
     }
 
     div#formulario > h1 {
